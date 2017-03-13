@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea7e6c</color>
+    <color name="colorPrimaryDark">#ea7e6c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="loading_pink">#ea7e6c</color>
+</resources>
